@@ -1,9 +1,10 @@
 # algorithmchallenges
 This is a repo to hold algorithm challenge solutions.
 
-Problem                                                 Ruby 		Java		
+Problem                                                 
+------------------------------------------------Ruby-----Java		
 
-461	Hamming Distance                            XX
+461	Hamming Distance ----------------------------X--------X
 
 412	Fizz Buzz  		
 344	Reverse String  		

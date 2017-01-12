@@ -1,7 +1,7 @@
 # algorithmchallenges
 This is a repo to hold algorithm challenge solutions.
 
-Problem_________________________________________Ruby 		Java		
+Problem   ‍      ‍      ‍      ‍      ‍      ‍      ‍   Ruby 		Java		
 
 461	Hamming Distance                            XX
 

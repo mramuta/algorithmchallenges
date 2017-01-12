@@ -3,10 +3,8 @@ This is a repo to hold algorithm challenge solutions.
 
 Problem                                                 
 ------------------------------------------------Ruby-----Java		
-
-461	Hamming Distance ----------------------------X--------X
-
-412	Fizz Buzz  		
+461	Hamming Distance ---------------------------X--------X
+412	Fizz Buzz ----------------------------------X--------X
 344	Reverse String  		
 463	Island Perimeter  		
 448	Find All Numbers Disappeared in an Array  		

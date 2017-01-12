@@ -2,10 +2,10 @@
 This is a repo to hold algorithm challenge solutions.
 
 Problem                                                 
-------------------------------------------------Ruby-----Java		
-461	Hamming Distance --------------------------X--------X
 
-412	Fizz Buzz ------------------------------------X--------X
+461	Hamming Distance 
+Ruby, Java
+412	Fizz Buzz 
 
 344	Reverse String
 

@@ -26,3 +26,7 @@ This is a repo to hold algorithm challenge solutions.
 
 ### 463. Island Perimeter
 * Ruby 94.4%
+
+### 476. Number Complement
+* Ruby 62.5%
+* Java 2.2%

@@ -1,6 +1,10 @@
 # algorithmchallenges
 This is a repo to hold algorithm challenge solutions.
 
+### 292. Nim Game
+* Java 5.9%
+* Ruby 16.7%
+
 ### 344. Reverse String
 * Java 54.8%
 * Ruby 29.2%

@@ -9,6 +9,9 @@ This is a repo to hold algorithm challenge solutions.
 * Java 18.6%
 * Ruby  2.7%
 
+### 448. Find All Numbers Disappeared in an Array
+* Java 8.9%
+
 ### 461. Hamming Distance
 * Java 31.6%
 * Ruby 14.3%

@@ -12,3 +12,6 @@ This is a repo to hold algorithm challenge solutions.
 ### 461. Hamming Distance
 * Java 31.6%
 * Ruby 14.3%
+
+### 463. Island Perimeter
+* Ruby 94.4%

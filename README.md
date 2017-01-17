@@ -13,6 +13,9 @@ This is a repo to hold algorithm challenge solutions.
 * Java 8.7%
 * Ruby 25.4%
 
+### 401. Binary Watch
+* Ruby 75.0%
+
 ### 412. Fizz Buzz
 * Java 18.6%
 * Ruby  2.7%

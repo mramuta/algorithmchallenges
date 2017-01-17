@@ -30,3 +30,6 @@ This is a repo to hold algorithm challenge solutions.
 ### 476. Number Complement
 * Ruby 62.5%
 * Java 2.2%
+
+### 485. Max Consecutive Ones
+* Ruby 78.3%

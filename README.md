@@ -4,6 +4,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 206. Reverse Linked List
 * Ruby 73.3%
 
+### 290. Word Pattern
+* Ruby 58.3%
+
 ### 292. Nim Game
 * Java 5.9%
 * Ruby 16.7%

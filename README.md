@@ -2,7 +2,10 @@
 This is a repo to hold algorithm challenge solutions.
 
 ### 19. Remove Nth Node From End of List
-* Ruby 82.8
+* Ruby 82.8%
+
+### 189. Rotate Array
+* Ruby 46.7%
 
 ### 206. Reverse Linked List
 * Ruby 73.3%

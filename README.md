@@ -1,6 +1,9 @@
 # algorithmchallenges
 This is a repo to hold algorithm challenge solutions.
 
+### 19. Remove Nth Node From End of List
+* Ruby 82.8
+
 ### 206. Reverse Linked List
 * Ruby 73.3%
 

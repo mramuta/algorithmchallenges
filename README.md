@@ -4,6 +4,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 19. Remove Nth Node From End of List
 * Ruby 82.8%
 
+### 58. Length of Last Word
+* Ruby 84.0%
+
 ### 189. Rotate Array
 * Ruby 46.7%
 

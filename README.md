@@ -8,7 +8,7 @@ This is a repo to hold algorithm challenge solutions.
 * Ruby 84.0%
 
 ### 167. Two Sum II - Input array is sorted
-
+* Ruby 88.9%
 * Java 9.8%
 
 ### 189. Rotate Array

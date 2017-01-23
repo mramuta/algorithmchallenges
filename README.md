@@ -7,6 +7,10 @@ This is a repo to hold algorithm challenge solutions.
 ### 58. Length of Last Word
 * Ruby 84.0%
 
+### 167. Two Sum II - Input array is sorted
+
+* Java 9.8%
+
 ### 189. Rotate Array
 * Ruby 46.7%
 

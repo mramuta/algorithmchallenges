@@ -48,6 +48,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 419. Battleships in a Board
 * Ruby 100%
 
+### 442. Find All Duplicates in an Array
+* Ruby 38.1%
+
 ### 448. Find All Numbers Disappeared in an Array
 * Java 8.9%
 

@@ -42,6 +42,9 @@ This is a repo to hold algorithm challenge solutions.
 * Java 18.6%
 * Ruby  2.7%
 
+### 442. Find All Duplicates in an Array
+* Ruby 38.1%
+
 ### 448. Find All Numbers Disappeared in an Array
 * Java 8.9%
 

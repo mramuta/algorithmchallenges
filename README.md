@@ -42,6 +42,9 @@ This is a repo to hold algorithm challenge solutions.
 * Java 18.6%
 * Ruby  2.7%
 
+### 413. Arithmetic Slices
+* Ruby 81.9%
+
 ### 419. Battleships in a Board
 * Ruby 100%
 

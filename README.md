@@ -56,6 +56,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 448. Find All Numbers Disappeared in an Array
 * Java 8.9%
 
+### 451. Sort Characters By Frequency
+* Ruby 12.5%
+
 ### 461. Hamming Distance
 * Java 31.6%
 * Ruby 14.3%

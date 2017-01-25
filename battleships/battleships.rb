@@ -1,4 +1,4 @@
-def battleships(board)
+def count_battleships(board)
 	row = 0
 	while row < board.length
 		col = 0

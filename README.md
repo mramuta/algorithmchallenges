@@ -43,6 +43,7 @@ This is a repo to hold algorithm challenge solutions.
 * Ruby  2.7%
 
 ### 413. Arithmetic Slices
+* Java 32.5%
 * Python 25.4%
 * Ruby 81.9%
 

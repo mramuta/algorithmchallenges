@@ -20,6 +20,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 260. Single Number III
 * Ruby 30.0%
 
+### 268. Missing Number
+* Ruby 50.0%
+
 ### 290. Word Pattern
 * Ruby 58.3%
 

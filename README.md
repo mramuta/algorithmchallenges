@@ -1,6 +1,9 @@
 # algorithmchallenges
 This is a repo to hold algorithm challenge solutions.
 
+### 14. Longest Common Prefix
+* Ruby 40.7%
+
 ### 19. Remove Nth Node From End of List
 * Ruby 82.8%
 

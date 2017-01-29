@@ -7,6 +7,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 35. Search Insert Position
 * Ruby 61.5%
 
+### 53. Maximum Subarray
+* Ruby 68.0%
+
 ### 58. Length of Last Word
 * Ruby 84.0%
 

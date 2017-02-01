@@ -26,6 +26,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 206. Reverse Linked List
 * Ruby 73.3%
 
+### 219. Contains Duplicate II
+* Ruby 41.7%
+
 ### 260. Single Number III
 * Ruby 30.0%
 

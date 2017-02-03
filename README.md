@@ -22,6 +22,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 69. Sqrt(x)
 * Ruby
 
+### 125. Valid Palindrome
+* Ruby
+
 ### 167. Two Sum II - Input array is sorted
 * Ruby 88.9%
 * Java 9.8%

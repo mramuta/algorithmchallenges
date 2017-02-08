@@ -96,3 +96,6 @@ This is a repo to hold algorithm challenge solutions.
 
 ### 485. Max Consecutive Ones
 * Ruby 78.3%
+
+### 500. Keyboard Row
+* Ruby

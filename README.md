@@ -10,6 +10,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 35. Search Insert Position
 * Ruby 61.5%
 
+### 36. Valid Sudoku
+* Ruby 92.3%
+
 ### 53. Maximum Subarray
 * Ruby 68.0%
 

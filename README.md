@@ -86,6 +86,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 451. Sort Characters By Frequency
 * Ruby 12.5%
 
+### 459. Repeated Substring Pattern
+* Ruby 44.4%
+
 ### 461. Hamming Distance
 * Java 31.6%
 * Ruby 14.3%

@@ -32,6 +32,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 189. Rotate Array
 * Ruby 46.7%
 
+### 202. Happy Number
+* Ruby 46.4%
+
 ### 206. Reverse Linked List
 * Ruby 73.3%
 

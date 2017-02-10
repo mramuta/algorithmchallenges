@@ -32,6 +32,9 @@ This is a repo to hold algorithm challenge solutions.
 ### 189. Rotate Array
 * Ruby 46.7%
 
+### 191. Number of 1 Bits
+* Ruby 95.6%
+
 ### 202. Happy Number
 * Ruby 46.4%
 

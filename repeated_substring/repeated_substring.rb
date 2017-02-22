@@ -15,4 +15,4 @@ end
 
 p repeated_substring_pattern('abab')
 p repeated_substring_pattern('aba')
-p repeated_substring_pattern('aaaaaaaa')
+p repeated_substring_pattern('aaaaaaaa')w

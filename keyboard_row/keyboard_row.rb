@@ -7,14 +7,14 @@ def find_words(words)
 	while i < words.length
 		row = keys_rows[words[i][0].downcase]
 		j = 1
-	while j < words[i].length
-		if keys_rows[words[i][j].downcase] != row || !(1..3).include?(row)
-			words.delete_at(i)
-			i -= 1
-			break
+		while j < words[i].length
+			if keys_rows[words[i][j].downcase] != row || !(1..3).include?(row)
+				words.delete_at(i)
+				i -= 1
+				break
+			end
+			j += 1
 		end
-		j += 1
-	end
 	i += 1
 	end
 	words
